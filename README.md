@@ -4,5 +4,5 @@
 - Created using Swift Storyboard;
 - Optimized for iPhone 13 Pro;
 - This is how the app looks like:
-- 
-![alt text](https://raw.githubusercontent.com/hugosilvag6/SWIFT-magicBall/main/Magic%208%20Ball/Assets.xcassets/screenshot.imageset/screenshot.png)
+
+![alt text](https://raw.githubusercontent.com/hugosilvag6/SWIFT-magicBall/main/Magic%208%20Ball/Assets.xcassets/screenshot.imageset/screenshot.png | width=373)
